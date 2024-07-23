@@ -17,7 +17,7 @@ The required Python packages are listed in `requirements.txt`. The packages must
 ## Running the Application
 
 To run the application, use the following command in the cmd:
-streamlit run task1.py
+streamlit run MeetingRoom task-1.py
 
 ## Detailed Explanation of the Code
 1. Generating Synthetic Data:
